@@ -1,0 +1,5 @@
+{
+  "name": "MediaFlow Analytics (Rasad)",
+  "description": "A professional media monitoring dashboard tracking 20+ sources across News, Twitter, and Instagram to identify dominant narratives.",
+  "requestFramePermissions": []
+}
